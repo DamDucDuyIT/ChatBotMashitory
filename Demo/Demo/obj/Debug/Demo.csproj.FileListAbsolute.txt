@@ -1,0 +1,6 @@
+E:\CHATBOT\Demo\Demo\bin\Debug\Demo.exe.config
+E:\CHATBOT\Demo\Demo\bin\Debug\Demo.exe
+E:\CHATBOT\Demo\Demo\bin\Debug\Demo.pdb
+E:\CHATBOT\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\CHATBOT\Demo\Demo\obj\Debug\Demo.exe
+E:\CHATBOT\Demo\Demo\obj\Debug\Demo.pdb
