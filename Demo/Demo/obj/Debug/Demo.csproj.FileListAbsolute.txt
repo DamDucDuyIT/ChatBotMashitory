@@ -1,9 +1,0 @@
-E:\CHATBOT\Demo\Demo\bin\Debug\Demo.exe.config
-E:\CHATBOT\Demo\Demo\bin\Debug\Demo.exe
-E:\CHATBOT\Demo\Demo\bin\Debug\Demo.pdb
-E:\CHATBOT\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
-E:\CHATBOT\Demo\Demo\obj\Debug\Demo.exe
-E:\CHATBOT\Demo\Demo\obj\Debug\Demo.pdb
-E:\CHATBOT\ChatBotMashitory\Demo\Demo\bin\Debug\Demo.exe.config
-E:\CHATBOT\ChatBotMashitory\Demo\Demo\obj\Debug\Demo.exe
-E:\CHATBOT\ChatBotMashitory\Demo\Demo\obj\Debug\Demo.pdb
